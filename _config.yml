@@ -1,0 +1,14 @@
+layout_spectrum: 0.024916349444538355
+typography_spectrum: 0.057930395007133484
+color:
+  brandStrength: 0.3470731556881219
+  lightness: 0.528597628697753
+  saturation: 0.6627995907329023
+  rhythmicContrast: 0.35766664100810885
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+name: RevoIPMente
